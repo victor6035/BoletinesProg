@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.boletin22;
+package com.programación.TerceraEva.boletin22;
 
 import javax.swing.DefaultComboBoxModel;
 

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.victor.boletin21;
+package com.programación.TerceraEva.boletin21;
 
 import javax.swing.*;
 
